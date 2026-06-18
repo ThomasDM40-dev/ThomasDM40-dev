@@ -1,18 +1,16 @@
 <!--
-  ════════════════════════════════════════════════════════════════
-  README DE PROFIL GITHUB — ThomasDM40-dev
-  → Crée un dépôt PUBLIC nommé EXACTEMENT  ThomasDM40-dev
-  → Uploade TOUT le contenu de ce dossier (profile-readme/) à la racine :
+  ================================================================
+  README DE PROFIL GITHUB - ThomasDM40-dev
+  Cree un depot PUBLIC nomme EXACTEMENT  ThomasDM40-dev
+  Uploade tout le contenu de ce dossier a la racine du depot :
         README.md
         .github/workflows/youtube.yml
-  → README.md s'affiche sur github.com/ThomasDM40-dev
-  Les lignes entre <!-- ... --> sont des commentaires (invisibles).
 
-  À PERSONNALISER avant / après upload :
-    • Spotify  → remplace TON_UID (2x)         [voir section 🎧]
-    • YouTube  → mets ton channel_id dans .github/workflows/youtube.yml
-    • Réseaux  → remplace les # par tes liens
-  ════════════════════════════════════════════════════════════════
+  A personnaliser :
+    - Spotify : deja fait (uid en place)
+    - YouTube : mets ton channel_id dans .github/workflows/youtube.yml
+    - Reseaux : remplace les # par tes liens en bas
+  ================================================================
 -->
 
 <!-- ===================== BANNIÈRE ANIMÉE ===================== -->
