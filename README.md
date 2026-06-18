@@ -116,8 +116,8 @@
 -->
 <h3 align="center">🎧 En écoute</h3>
 <p align="center">
-  <a href="https://open.spotify.com/user/TON_UID">
-    <img src="https://spotify-github-profile.kittinan.com/api/view?uid=TON_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=ec4899&bar_color_cover=true" alt="Spotify en écoute" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/redirect?uid=31l3g47qvhxm2xpyjqc3my5ptghy">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l3g47qvhxm2xpyjqc3my5ptghy&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=ec4899&bar_color_cover=true" alt="Spotify en écoute" />
   </a>
 </p>
 
